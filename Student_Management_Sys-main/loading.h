@@ -8,7 +8,7 @@ void loadingBar() {
     char fillChar = 219; // solid white block
     const string indent = "\t\t\t\t\t";
     cout << "\n\n\n\n" << indent << "Student's Record Management System";
-    cout << "\n"        << indent << "Project By Adarsh RAI";
+    cout << "\n"        << indent << "Project By ADARSH RAI";
     cout << "\n\n\n"    << indent << "Loading...\n\n";
     cout << indent;
     // total blocks = 26
